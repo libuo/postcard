@@ -5,6 +5,7 @@
 //  Created by max murrell on 09/10/2014.
 //  Copyright (c) 2014 max murrell. All rights reserved.
 //  Git comment test
+//  Solo test of Git comit
 
 import UIKit
 
